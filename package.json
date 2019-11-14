@@ -1,0 +1,26 @@
+{
+  "name": "serverjars-api",
+  "version": "1.0.1",
+  "description": "The JavaScript API for serverjars.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobtread/ServerJars-API-JS.git"
+  },
+  "keywords": [
+    "ServerJars",
+    "API"
+  ],
+  "author": "Jacobtread <jacobtread@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobtread/ServerJars-API-JS/issues"
+  },
+  "homepage": "https://github.com/jacobtread/ServerJars-API-JS#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
