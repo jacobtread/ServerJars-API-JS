@@ -2,7 +2,7 @@
 # ServerJars-API
 The Node JavaScript API for ServerJars
 
-
+[![NPM](https://nodei.co/npm/serverjars-api.png)](https://nodei.co/npm/serverjars-api/)
 
 **Code Examples:**
 
