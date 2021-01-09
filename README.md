@@ -2,6 +2,9 @@
 # ServerJars-API
 The Node JavaScript API for ServerJars
 
+# Important Announcement
+Any Issues will be ignored. The Songoda company screwed me over and I will no longer be writing code for them however I will leave this code up for anyone who wishes to modify it. 
+
 [![NPM](https://nodei.co/npm/serverjars-api.png)](https://nodei.co/npm/serverjars-api/)
 
 **Code Examples:**
